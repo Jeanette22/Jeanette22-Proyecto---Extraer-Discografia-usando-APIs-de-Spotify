@@ -1,4 +1,4 @@
-# Proyecto: Extracción de discografía usando API's de Spotify:
+# Proyecto: Extracción de discografía usando API's de Spotify🔊:
 
 ## ¿Para que utilizamos Web Scraping? 
 Es un proceso o técnica de adquisición de datos, previo al análisis de los datos. También se puede automatizar para extraer contenido de diferentes sitios web. Por eso consideré importante aprender a usar / prácticar librererías que me permitan realizar esta actividad. 
